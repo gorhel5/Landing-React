@@ -1,0 +1,25 @@
+.favourite-t {
+    text-transform: none;
+}
+
+.favourite-t::before {
+    bottom: -10px;
+}
+
+.favourite {
+    padding-top: 190px;
+}
+.favourite__header {
+    margin-bottom: 120px;
+}
+.favourite__title {
+}
+.title-2 {
+}
+.favourite-t {
+}
+.favourite__cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+}
